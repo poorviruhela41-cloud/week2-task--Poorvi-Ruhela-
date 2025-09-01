@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "def", "function", "lambda"],
+    "answer": "def"
+  },
+  {
+    "question": "Which of the following is a mutable data type in Python?",
+    "options": ["tuple", "list", "string", "frozenset"],
+    "answer": "list"
+  },
+  {
+    "question": "What is the output of: print(type({}))?",
+    "options": ["list", "tuple", "dict", "set"],
+    "answer": "dict"
+  },
+  {
+    "question": "Which operator is used for floor division in Python?",
+    "options": ["/", "//", "%", ""],
+    "answer": "//"
+  },
+  {
+    "question": "What is the correct file extension for Python files?",
+    "options": [".pt", ".pyt", ".py", ".python"],
+    "answer": ".py"
+  },
+  {
+    "question": "Which function is used to read input from the user in Python?",
+    "options": ["input()", "scan()", "read()", "get()"],
+    "answer": "input()"
+  },
+  {
+    "question": "What is the output of: bool(0)?",
+    "options": ["True", "False", "None", "Error"],
+    "answer": "False"
+  },
+  {
+    "question": "Which of the following is NOT a Python keyword?",
+    "options": ["yield", "with", "eval", "assert"],
+    "answer": "eval"
+  },
+  {
+    "question": "What does PEP stand for in Python?",
+    "options": [
+      "Python Enhancement Proposal",
+      "Programming Enrichment Plan",
+      "Python Execution Process",
+      "Performance Enhancement Protocol"
+    ],
+    "answer": "Python Enhancement Proposal"
+  },
+  {
+    "question": "Which built-in function returns the length of an object?",
+    "options": ["count()", "len()", "size()", "length()"],
+    "answer": "len()"
+  }
+]
